@@ -1,0 +1,4 @@
+include ':pluginapk'
+include ':plugin_core'
+include ':app'
+rootProject.name = "TestPlugin360"
